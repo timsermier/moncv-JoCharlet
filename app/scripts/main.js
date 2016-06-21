@@ -2,7 +2,6 @@
 
 $(document).ready(function(){
   'use strict';
-  $('a').smoothScroll({offset: -50}); // correction par rapport au décalage de la nav barre fixe
 });
 
 
