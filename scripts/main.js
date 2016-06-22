@@ -1,0 +1,1 @@
+"use strict";$(document).ready(function(){$("a").smoothScroll({offset:-50,speed:350})});var easter_egg=new Konami(function(){alert("Konami code!")});
