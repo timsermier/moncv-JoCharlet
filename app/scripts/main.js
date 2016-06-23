@@ -4,8 +4,6 @@ $(document).ready(function(){
   $('a').smoothScroll({offset: -50, speed: 350}); // correction par rapport au décalage de la nav barre fixe + acceleration de la vitesse du smoothScroll 
 });
 
-var easter_egg = new Konami(function() { alert('Konami code!')});
-
 
 //1 récupérer les infos nécessaires
 //2 remplacer un element du dom par un autre
