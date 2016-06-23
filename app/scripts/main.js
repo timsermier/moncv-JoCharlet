@@ -14,33 +14,33 @@ var easter_egg = new Konami(function() { alert('Konami code!')});
 
 
 $('.progress-bar').each( function (){
-var val= $(this).attr("aria-valuenow"); // on récupère la veleure
+var val= $(this).attr('aria-valuenow'); // on récupère la veleure
 var color = $(this).css('background-color'); // on récupère la couleur
 var newDomElem = $('<canvas ></canvas>'); //création du nouvel élément DOM
 $(this).parent().replaceWith(newDomElem); // on remplace le parent .progress-bar (.progress) par nos nouveaux canvas
 
 var data = {
     labels: [
-        val + "% maitrisé",
+        val + '% maitrisé',
     ],
     datasets: [
         {
             data: [val, 100-val],
             backgroundColor: [
                 color,
-                "#FFFFFF"
+                '#FFFFFF'
             ],
 			borderColor: [
                 color,
-                "#FFFFFF"
+                '#FFFFFF'
             ],
             hoverBackgroundColor: [
                 color,
-                "#FFFFFF"
+                '#FFFFFF'
             ],
 			hoverBorderColor: [
                 color,
-                "#FFFFFF"
+                '#FFFFFF'
             ]
         }]
 };
