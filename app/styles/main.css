@@ -21,11 +21,6 @@ address{
 	font-weight:bold;
 	}
 
-.header, .footer{
-	background-color:#7C7C7C;
-	color:#FFF;
-	}
-	
 .row{
 	padding-top:10px;
 	padding-bottom:10px;
