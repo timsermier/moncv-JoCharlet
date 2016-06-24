@@ -6,8 +6,8 @@ _Création d'un site web CV avec le framework Bootstrap en utilisant des outils 
 
 **Table des matières**
 
-1.  [Présentation des outils utilisés](##-Présentation-des-outils)
-    - [IDE](###-1.1-IDE)
+1.  [Présentation des outils utilisés](#-Présentation-des-outils)
+    - [IDE](#-1.1-IDE)
  	- [HTML](###-1.2-HTML)
 	- [CSS](###-1.3-CSS)
 	- [JavaScript](###-1.4-JavaScript)
