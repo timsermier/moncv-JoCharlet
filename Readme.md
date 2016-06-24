@@ -6,36 +6,36 @@ _Création d'un site web CV avec le framework Bootstrap en utilisant des outils 
 
 **Table des matières**
 
-1.  [Présentation des outils utilisés](#présentation-des-outils)
+1.  [Présentation des outils utilisés](#1-présentation-des-outils)
     - [IDE](#11-ide)
- 	- [HTML](###-1.2-HTML)
-	- [CSS](###-1.3-CSS)
-	- [JavaScript](###-1.4-JavaScript)
-	- [jQuery](###-1.5-jQuery)
-	- [Framework Bootstrap](###-1.6-Framework-Bootstrap)
-	- [Node.js & npm](###-1.7-Node.js-&-npm)
-	- [Yeoman](###-1.8-Yeoman)
-	- [Bower](###-1.9-Bower)
-	- [Gulp](###-1.10-Gulp)
-	- [Git](###-1.11-Git)
-	- [GitHub](###-1.12-GitHub)
-	- [Markdown](###-1.13-Markdown)
+ 	- [HTML](#12-html)
+	- [CSS](#13-css)
+	- [JavaScript](#14-javascript)
+	- [jQuery](#15-jquery)
+	- [Framework Bootstrap](#16-framework-bootstrap)
+	- [Node.js & npm](#17-nodejs--npm)
+	- [Yeoman](#18-yeoman)
+	- [Bower](#19-bower)
+	- [Gulp](#110-gulp)
+	- [Git](#111-git)
+	- [GitHub](#112-github)
+	- [Markdown](#113-markdown)
 	
-2. Processus réalisé
-    - Installer l'environnement de développement
-    - Prévisualisation de l'application dans le browser
-    - Utiliser bower pour installer des packets
-    - Créer son CV avec Bootstrap
-    - Installer GitHub
-    - Utilisation de Git
-    - Déploiement 
-    - Markdown
+2. [Processus réalisé](#2-processus-réalisé)
+    - [Installer l'environnement de développement](#21-installer-lenvironnement-de-développement)
+    - [Prévisualisation de l'application dans le browser](22-prévisualisation-de-lapplication-dans-le-browser)
+    - [Utiliser bower pour installer des packets](23-utiliser-bower-pour-installer-des-packets)
+    - [Créer son CV avec Bootstrap](#24-créer-son-cv-avec-bootstrap)
+    - [Installer GitHub](#25-installer-github)
+    - [Utilisation de Git](#26-utilisation-de-git)
+    - [Déploiement](#27-déploiement)
+    - [Markdown](#28-markdown)
 
-3. Références
+3. [Références](#3-Références)
 
 ***
 
-## Présentation des outils
+## 1. Présentation des outils
 _texte_
 ### 1.1 IDE
 ### 1.2 HTML
@@ -64,3 +64,5 @@ _text_
 ### 2.7 Déploiement 
 ### 2.8 Markdown
 
+***
+## 3. Références
