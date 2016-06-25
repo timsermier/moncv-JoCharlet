@@ -4,6 +4,7 @@ $(document).ready(function(){
   $('a').smoothScroll({offset: -50, speed: 350}); // correction par rapport au décalage de la nav barre fixe + acceleration de la vitesse de smoothScroll 
 
 
+	$('.progress-bar').each( function (){	// Pour chaque <div class=".progress-bar">
 	var val= $(this).attr('aria-valuenow'); // on récupère la valeure
 	var color = $(this).css('background-color'); // on récupère la couleur
 	var newDomElem = $('<canvas ></canvas>'); //création du nouvel élément DOM
