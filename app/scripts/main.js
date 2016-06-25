@@ -12,7 +12,7 @@ $(document).ready(function(){
 	
 	var data = {
 		labels: [
-			val + '% maitrisé', // génération du label
+			val + '% maitrisé', // génération du label avec la valeur
 		],
 		datasets: [
 			{
